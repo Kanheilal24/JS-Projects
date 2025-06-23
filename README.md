@@ -1,2 +1,2 @@
 # JS-Projects
-My small JS projects
+This is a repo of my all JS projects.
